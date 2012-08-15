@@ -33,7 +33,7 @@ The goals of this *cook book* are:
   processes we currently live at nexiles GmbH
 
 - To have *one* set of documentation where we can point new team members
-  for reference.
+  to for reference.
 
 - To have a *evolving* and *improving* documentation.
 
@@ -64,6 +64,7 @@ These are the team members of the *nexiles.cookbook* project:
 **Team Members**
     - Stefan Eletzhofer
     - Ramon Bartl
+    - Günter Häußner
 
 Repository and Issue Tracker
 ============================
