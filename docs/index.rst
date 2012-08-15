@@ -9,8 +9,10 @@ Contents:
 
    introduction
    code-of-conduct
+   roadmap
    resources
    changelog
+
 
 Indices and tables
 ==================
@@ -18,4 +20,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
