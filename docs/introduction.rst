@@ -66,6 +66,14 @@ These are the team members of the *nexiles.cookbook* project:
     - Ramon Bartl
     - Günter Häußner
 
+Public Documentation Link
+=========================
+
+:Public Link:  http://dl.dropbox.com/u/154097/nexiles.cookbook/index.html
+
+.. note:: This is on dropbox until we decide on a "real" public location.
+
+
 Repository and Issue Tracker
 ============================
 
