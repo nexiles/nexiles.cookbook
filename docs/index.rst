@@ -9,6 +9,7 @@ Contents:
 
    introduction
    code-of-conduct
+   communication
    roadmap
    resources
    changelog
