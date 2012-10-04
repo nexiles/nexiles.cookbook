@@ -1,9 +1,10 @@
-===========
+=============
 Communication
-===========
+=============
 
-:Author:    $Author$
-:Date:      $Date$
+:Author:    Stefan Eletzhofer
+:Date:      |today|
+:State:     *draft*
 
 Abstract
 ========
@@ -28,10 +29,10 @@ Also, different people have different habits -- one is disturbed by the
 slightest noise, the other happily gets his work done in a crowded kitchen
 area.
 
-Another challenge is that our company is located in oslo, ravensburg and
-bamberg.  Also, people are working on site -- i.e. on the customers premise.
+Another challenge is that our company is located in Oslo, Ravensburg and
+Bamberg.  Also, people are working on site -- i.e. on the customers premise.
 
-These circumstaces can lead to frustration at all parties -- the one never gets
+These circumstances can lead to frustration at all parties -- the one never gets
 hold on the only guy which can help, and the other one never gets anything done
 in an efficient way because of interruptions.
 
@@ -44,8 +45,16 @@ the previous section.
 Proposed Solution
 =================
 
-We need that by specifying the time frame for communication types solves
-a big part of the problem.
+We think that by specifying the time frame for communication types solves
+a big part of the problem.  In other words, we want to have *time slots* where
+it is OK to expect a synchronous communication to work, and -- vice versa -- time
+slots where *asynchronous* methods are more appropriate.  No one feels bad when
+he's in need of a direct talk, because we all agreed on a time scale.  Also,
+the type of work which is best done in silence is more efficiently done in the
+time when we agreed on the *asynchronous* method.
+
+.. note:: We very much like this to be more like a pretty much fixed guideline
+   than a hard rule.
 
 The other key is the concept of having different areas for different work.
 
@@ -85,6 +94,9 @@ follows:
 +---------------+--------------+---------------------------------------------+
 | 16:00 - 17:00 | synchronous  | developer work                              |
 +---------------+--------------+---------------------------------------------+
+
+We hope to have found a appropriate balance between *synchronous* and
+*asynchronous* communication methods.
 
 Work Zones
 ----------
