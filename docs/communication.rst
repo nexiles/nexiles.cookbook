@@ -56,12 +56,20 @@ time when we agreed on the *asynchronous* method.
 .. note:: We very much like this to be more like a pretty much fixed guideline
    than a hard rule.
 
-The other key is the concept of having different areas for different work.
+The other key is the concept of having different areas for different work.  What
+we mean by this is, that we think there should be designated *zones* in our office.
+Each zone would have a specific type of activity / work assigned.  This is not
+as uncommon as it first seems -- a kitchen is usually most commonly used to cook
+and eat.  We would like to *extend* this by defining additional zones.  The vision
+here is, that we think that it would be cool if we had a library, a coffee house,
+a shared office and a parliament in our office -- all at the same time.  The library
+would be used for silent research type work.  The coffee house fulfils a social role,
+and is a place to meet people.  The shared office is a place where ad-hoc co-operation
+happens, and no one has a fixed place.  The parliament is where discussions, votes
+and private talks are held.
 
-We think that by rules and tools alone, we cannot solve the problem at all.
-
-Definition
-----------
+Synchronous vs asynchronous communication
+-----------------------------------------
 
 In the context of this document we'll use the following terms:
 
