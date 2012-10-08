@@ -5,11 +5,12 @@ nexiles GmbH cook book
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    introduction
    code-of-conduct
    communication
+   processes/index
    roadmap
    resources
    changelog
