@@ -73,7 +73,7 @@ Synchronous vs asynchronous communication
 
 In the context of this document we'll use the following terms:
 
-**asynchronous communication**
+**synchronous communication**
   When this communication method is used, both communication partners
   communicate in the same time frame -- if the *receiver* does not take the
   call, no communication takes place.  The *caller* gets an immediate response.
@@ -81,7 +81,7 @@ In the context of this document we'll use the following terms:
   Depending on the actual use case, instant messaging systems belong also into
   this category.
 
-**synchronous communication**
+**asynchronous communication**
   This type of communication allows the *receiver* to defer the communication to
   a later time.  Examples would be E-Mail and text messages (SMS).
 
